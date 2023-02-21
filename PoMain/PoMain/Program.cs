@@ -3,7 +3,7 @@ Console.WriteLine("Hello, World!");
 
 
 for (int i = 0; i < 100; i++)
-    Console.WriteLine("house, Woreewrsdhfsdous하하 이런oadiufld!2");
+    Console.WriteLine("house, Worldd1111dd33!2");
 
 
 
