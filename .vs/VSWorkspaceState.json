@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\PoMain",
+    "\\PoMain\\PoMain"
   ],
+  "SelectedNode": "\\PoMain\\PoMain\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
